@@ -4,7 +4,8 @@ description: An overview of my work in the field of data science
 ---
 
 # About Me
-![My Picture](/pics/Robert Bell Photo.jpg)
+![My Picture](/pics/Robert Bell Photo_thumb.jpg)
+![My Picture](/pics/Robert Bell Photo_small.jpg)
 
 I am a data analyst professional currently working 
 at CitiBank as a Qlikview dashboard developer.  
