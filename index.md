@@ -9,8 +9,6 @@ description: An overview of my work in the field of data science
 I am a data analyst professional currently working at CitiBank as a Qlikview dashboard developer.  
 In the near future my goal is to become proficient in machine learning d incorporate that knowledge into my role.   
 
-/n
-
 # Time Series Analysis:
 
 -[Public vs. Private Construction Spending](/timeseriesdecom/index.md)
