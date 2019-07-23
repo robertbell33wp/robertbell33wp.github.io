@@ -1,6 +1,6 @@
 ---
 title: Robert M. Bell Jr Data Science Page
-description: An overview of some of my work in the field of data science.
+description: An overview of some of my work in the field of data science
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
