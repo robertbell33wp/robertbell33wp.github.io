@@ -1,3 +1,3 @@
 # Williman and Mary CTBA
 
-Home page for WM master class
+Repository for WM master class
