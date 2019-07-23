@@ -7,8 +7,10 @@ description: An overview of my work in the field of data science
 ### Small image
 ![My Picture](/pics/Robert Bell Photo.jpg)
 
-I am a data analyst professional curently working at CitiBank as a Qlikview dashboard developer.  
-In the near future my goal is become proficient in machine learning and incorporate that knowelege into my role.  
+I am a data analyst professional currently working 
+at CitiBank as a Qlikview dashboard developer.  
+In the near future my goal is become proficient in machine learning 
+and incorporate that knowledge into my role.   
 
 
 # Time Series Analysis:
