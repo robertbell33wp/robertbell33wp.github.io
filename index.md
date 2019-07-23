@@ -14,6 +14,6 @@ In the near future my goal is to become proficient in machine learning d incorpo
 -[Public vs. Private Construction Spending](/timeseriesdecom/index.md)
 
 
-# Data Coursework examples:
+# Data Coursework Examples:
 
 -[Sample Work Repository](https://github.com/robertbell33wp/codework)
