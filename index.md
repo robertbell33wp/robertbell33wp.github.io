@@ -4,7 +4,6 @@ description: An overview of my work in the field of data science
 ---
 
 # About Me
-### Small image
 ![My Picture](/pics/Robert Bell Photo.jpg)
 
 I am a data analyst professional currently working 
