@@ -1,1 +1,3 @@
-# Home page for WM master class
+# Williman and Mary CTBA
+
+Home page for WM master class
