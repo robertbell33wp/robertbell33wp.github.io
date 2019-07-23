@@ -12,3 +12,8 @@ In the near future my goal is to become proficient in machine learning d incorpo
 # Time Series Analysis:
 
 -[Public vs. Private Construction Spending](/timeseriesdecom/index.md)
+
+
+# Data Coursework examples:
+
+-[Sample Work Repository](/timeseriesdecom/index.md)
