@@ -16,4 +16,4 @@ In the near future my goal is to become proficient in machine learning d incorpo
 
 # Data Coursework examples:
 
--[Sample Work Repository](/timeseriesdecom/index.md)
+-[Sample Work Repository](https://github.com/robertbell33wp/codework)
