@@ -12,3 +12,6 @@ Time Series HTML Web Versions
 Time Series Jupyter Notebooks
 - [Public_TimeSeriesDecomposition(ipynb)](Public_TimeSeriesDecomposition.ipynb)
 - [Private_TimeSeriesDecomposition(ipynb)](Private_TimeSeriesDecomposition.ipynb)
+
+Time Series Analysis Presentation
+[![Sorting](https://img.youtube.com/vi/j5S_TNHcGQs0.jpg)](http://www.youtube.com/watch?v=j5S_TNHcGQs)
