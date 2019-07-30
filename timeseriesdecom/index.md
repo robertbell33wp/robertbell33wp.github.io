@@ -15,4 +15,7 @@ Time Series Jupyter Notebooks
 
 Time Series Analysis Presentation
 
-[![Time Series Pattern Presentation](https://img.youtube.com/vi/j5S_TNHcGQs/0.jpg)](http://www.youtube.com/watch?v=j5S_TNHcGQs)
+[![Time Series Pattern Presentation](https://img.youtube.com/vi/j5S_TNHcGQs/1.jpg)](http://www.youtube.com/watch?v=j5S_TNHcGQs)
+
+
+
